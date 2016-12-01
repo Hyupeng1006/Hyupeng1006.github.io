@@ -1,0 +1,57 @@
+/*
+@Author: Xu Wenhao
+@Create Time: 2016-11-21
+@Last Modified Time:  
+*/
+@charset "utf-8";
+body,
+div,
+img,
+dl,
+dt,
+dd,
+ul,
+li,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+	padding: 0;
+	margin: 0;
+}
+ul,
+ol,
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: #323232;
+}
+img {
+	border: none;
+}
+body {
+	background: #FFF;
+	font-family: "microsoft yahei", arial;
+	overflow-x: hidden;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	color: #333;
+}
+em,i{
+	font-style: initial;
+}
