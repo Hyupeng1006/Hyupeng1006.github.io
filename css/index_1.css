@@ -1149,3 +1149,12 @@ footer div a:hover {
 	animation: b_to_t 1s;
 	visibility: visible;
 }
+
+/*迭代1*/
+.goodnewcolor{
+	color: red;
+}
+
+.ownstudycolor{
+	color: blue;
+}
